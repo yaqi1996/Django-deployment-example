@@ -26,7 +26,7 @@ SECRET_KEY = 'fu_*$@kg-c(0s)c3^=nsls^bbjxp^m^jg$m=t504da^w$c*s*='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
